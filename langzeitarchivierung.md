@@ -3,6 +3,8 @@
 
 Bitte beachten Sie **unbedingt** die nachfolgenden Informationen zu den akzeptierten Datenformaten (*ausklappbar*). Nicht jedes Dateiformat ist für die Langzeitarchivierung geeignet, weshalb dies ein zentrales Thema der FDM-Empfehlungen ist. Nur in Ausnahmefällen können abweichende Dateiformate langzeitarchiviert werden und hier muss dies entsprechend in der preservation policy vermerkt werden sowie im Datenübergabevertrag. Bitte sprechen Sie mit uns in diesem Fall. Dies sind die gängigen Dateiformate und die Liste erhebt keinen Anspruch auf Vollständigkeit. 
 
+<details><summary>Details zu Dateiformaten</summary>
+
 ### Präferierte und akzeptierte Dateiformate
 
 <details><summary>PDF-Dokumente</summary>
@@ -125,6 +127,8 @@ MPEG1/2/4 | .mpeg/.mpg/MPEG4 .mp4 | präferiert  |
 </details>
   
 Sollten Sie Dateien in anderen Formaten vorliegen haben, kontaktieren Sie uns unter ianus-fdz@dainst.de. Für weitere Dateitypen finden Sie außerdem auf den Seiten des [ADS](https://archaeologydataservice.ac.uk/help-guidance/instructions-for-depositors/files-and-metadata/) Anhaltspunkte.
+
+</details>
 
 ## Archivierungsprozess
 *Der Workflow wird aktuell angepasst. Stand: 2023-06-01. Die Anpassung wird vorraussichtlich mindestens bis Ende 2024 dauern. Bei Fragen kontaktieren Sie bitte ianus-fdz@dainst.de*
